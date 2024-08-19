@@ -31,7 +31,7 @@ Caso você tenha vontade de ver como foi essa parte com mais detalhes sugiro ler
 
 Propus criar um dashboard com os dados da pesquisa, publicado aqui, para melhorar nossa análise e despertar a curiosidade dos clientes sobre a pesquisa. Escolhi o Streamlit por ser uma biblioteca abrangente para 
 aplicações web em Python. Um dos grandes desafios foi aplicar mais de um filtro nos gráficos, permitindo que o usuário interagisse mais com o dashboard, mas decidimos utilizar a metodologia ágeis para contornar 
-esse desafio e focando na criação do backlog para o código. Com a metodologia chegamos a um acordo de criar um vídeo mostrando as funcionalidades do código para que você consiga ver como ficou esta parte do projeto.
+esse desafio e focando na criação do backlog para o código. Com a metodologia chegamos a um acordo de criar um vídeo mostrando as funcionalidades do código para que você consiga ver como ficou esta parte do projeto. Você pode assistir o vídeo clicando [AQUI](https://www.loom.com/share/9849b246949c4c349df4833a374f8471?sid=5382641b-796a-4f6b-9903-287a547d59a3).
 
 ## Planejamentos Futuro
 
