@@ -24,7 +24,7 @@ complementou os dados pessoais dos respondentes, como gênero, idade, estado, es
 ## Desenvolvimento e treinamento do Olly
 
 Com esses dados complementares, o Bruno, que estava responsável pelo treinamento do Olly, conseguiu dar início ao treinamento da Machine Learning, tornando o Olly mais inteligente para as recomendações de veículos. 
-Caso você tenha vontade de ver como foi essa parte com mais detalhes sugiro ler o artigo que o Bruno fez.
+Caso você tenha vontade de ver como foi essa parte com mais detalhes sugiro ler o [artigo do Bruno](https://www.linkedin.com/pulse/desvendando-tecnologia-por-tr%C3%A1s-do-olly-o-assistente-virtual-qroge/?trackingId=jw2Xzs5xRk2CcdxJh0pmnw%3D%3D) fez.
 
 ## Implementação do DashBoard e desafios
 
