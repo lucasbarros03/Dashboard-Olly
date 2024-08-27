@@ -8,8 +8,7 @@ Omena Seguros, na memória dessas pessoas quando elas procurarem um seguro.
 ## Fase de Planejamento
 
 Na fase de planejamento do Olly, o foco não foi apenas na tecnologia, mas também em como comunicar a inovação aos clientes. Isso exigiu pesquisas profundas e um trabalho estratégico para atingir os objetivos. 
-Inspiramo-nos no sistema do QuintoAndar, que utiliza uma calculadora para recomendar o valor de aluguel aos locadores. Caso você tenha ficado interessado sobre a parte marketing você pode ler o artigo da Malu, 
-que foi a responsável por essa parte.
+Inspiramo-nos no sistema do QuintoAndar, que utiliza uma calculadora para recomendar o valor de aluguel aos locadores. Caso você tenha ficado interessado sobre a parte marketing você pode ler o [artigo da Malu](https://www.linkedin.com/pulse/estrat%C3%A9gia-de-marketing-utilizada-olly-o-assistente-maria-luiza-1dzof/?trackingId=afEany0LTeSHt07VOTXpiQ%3D%3D), que foi a responsável por essa parte.
 
 ## Brainstorming 
 
